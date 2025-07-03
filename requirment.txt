@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+pandas
+opencv-python
+pytesseract
+arabic-reshaper
+python-bidi
+ultralytics
